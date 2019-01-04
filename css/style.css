@@ -23,7 +23,7 @@ h4 {
 }
 
 img {
-  border-box: 1px solid black;
+  box-sizing: border-box;
 }
 
 .amiable {
